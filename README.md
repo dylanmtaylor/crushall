@@ -4,4 +4,5 @@ A simple shell script I created to recursively reduce the size of images on my s
 ## Usage
 
 ```bash
-wget https://raw.githubusercontent.com/dylanmtaylor/crushall/master/crushall.sh; chmod +x crushall.sh; ./crushall.sh```
+wget https://raw.githubusercontent.com/dylanmtaylor/crushall/master/crushall.sh; chmod +x crushall.sh; ./crushall.sh
+```
